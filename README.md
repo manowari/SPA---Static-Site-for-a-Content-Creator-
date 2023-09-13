@@ -1,5 +1,7 @@
 # SPA---Static-Site-for-a-Content-Creator-
 
+Work in Progress
+
 Hello, let's biuld !!!  :-)
 
 //  Install Angular CLI globally on your PC
