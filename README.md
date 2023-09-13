@@ -1,6 +1,6 @@
 # SPA---Static-Site-for-a-Content-Creator-
 
-Hello, let's build a build a  blog !!!  :-)
+Hello, let's biuld !!!  :-)
 
 //  Install Angular CLI globally on your PC
 npm install -g @angular/cli
