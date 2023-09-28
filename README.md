@@ -2,6 +2,13 @@
 
 Work in Progress
 
+
+Here a sample 
+
+![image](https://github.com/manowari/SPA---Static-Site-for-a-Content-Creator-/assets/141199798/ef10019f-d45c-4dc8-8edf-008729848dd0)
+
+
+
 Hello, let's biuld !!!  :-)
 
 //  Install Angular CLI globally on your PC
